@@ -1,0 +1,10 @@
+
+*.d
+
+*.dia
+
+*.o
+
+*.dat
+
+*.LinkFileList
